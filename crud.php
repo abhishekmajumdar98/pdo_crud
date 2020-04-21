@@ -37,7 +37,9 @@ if(isset($_POST['btn_save'])){
 </head>
 <body>
     <div class="container">
-       <center><h1>CRUD USING PHP PDO</h1></center>
+       <center><h3 style="color:red">CRUD USING PHP PDO</h3></center>
+        <br>
+        <br>
         <div class="row">
             <div class="col-md-4">
                 <form action="" method="post">
