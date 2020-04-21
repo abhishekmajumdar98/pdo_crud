@@ -1,2 +1,2 @@
-Its the basic tutorial for create CRUD using PHP PDO
+Its the basic tutorial for creating CRUD using PHP PDO
 By Abhishek Majumdar
